@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_title">My Application</string>
+    <string name="app_name">test</string>
+    <string-array name="url_array">
+
+    </string-array>
+</resources>
